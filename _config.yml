@@ -1,2 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
 title: "Fallout 4: Enhanced"
+color_scheme: "dark"
+search_enabled: false
