@@ -1,7 +1,3 @@
----
-title: Fallout: Enhanced
-has_children: false
-nav_order: 1
----
+## Fallout: Enhanced
 
-## Introduction
+Creative name, right?
